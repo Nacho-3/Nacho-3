@@ -20,7 +20,7 @@
 
 - 🎓 Cursando la **Tecnicatura Universitaria en Programación** en la UTN.
 - 🔭 Actualmente construyendo sistemas de gestión (ERP) y APIs REST end-to-end.
-- 🌱 Reforzando C#/.NET, Angular y buenas prácticas de arquitectura backend.
+- 🌱 Reforzando C#/.NET, React y buenas prácticas de arquitectura backend.
 - 💬 Preguntame sobre Vue 3, Node.js, APIs REST o modelado de bases de datos.
 - ⚡ Uso IA (Copilot, Claude, ChatGPT) como parte de mi flujo de trabajo diario.
 
@@ -51,17 +51,17 @@
 #### 🔧 Sistema ERP de Gestión — Empresa de Montajes Eléctricos
 ERP end-to-end para centralizar operación, administración y finanzas: control de presentismo, liquidación de sueldos, cajas multi-cuenta, presupuestos con certificados de avance de obra (indexados por CAC), dashboard en tiempo real con Socket.IO y comprobantes en PDF.
 `Node.js` `Express` `PostgreSQL` `Vue 3` `Socket.IO` `Caddy`
-🔗 [Ver repositorio](https://github.com/Nacho-3/nombre-del-repo)
+🔗 [Ver repositorio](https://github.com/Nacho-3/Sistema-gestion-tesla)
 
 #### 💰 CryptoTrackerAPI — Monitor de Cartera
 Aplicación full stack para seguimiento y auditoría de operaciones de compra/venta de activos digitales (BTC, ETH, USDC), con API REST propia, integración con la API de CriptoYa para cotizaciones en tiempo real y validaciones de negocio sobre fondos disponibles.
 `C#` `.NET 8` `ASP.NET Core` `Entity Framework` `SQL Server` `Vue 3`
-🔗 [Ver repositorio](https://github.com/Nacho-3/nombre-del-repo)
+🔗 [Ver repositorio](https://github.com/Nacho-3/crypto-tracker)
 
 #### 🔐 Sistema de Control de Acceso — Tecnoteca
 Sistema para registro de ingresos y egresos con persistencia en tiempo real, organizando los datos por usuario y fecha.
 `Python` `Tkinter` `Firebase`
-🔗 [Ver repositorio](https://github.com/Nacho-3/nombre-del-repo)
+🔗 [Ver repositorio](https://github.com/Nacho-3/Acceso-Tecnoteca)
 
 #### 📚 Sistema de Gestión de Biblioteca
 Sistema administrativo con CRUD completo de libros y socios, autenticación y búsquedas por distintos criterios.
@@ -72,9 +72,8 @@ Sistema administrativo con CRUD completo de libros y socios, autenticación y b�
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nacho-3&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacho-3&layout=compact&hide_border=true" />
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 ---
